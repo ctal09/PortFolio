@@ -1,5 +1,6 @@
 import { createRouter, createWebHistory } from 'vue-router'
 import Home from '../views/Home.vue'
+import Projects from '../views/Projects.vue'
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
   routes: [
@@ -7,11 +8,11 @@ const router = createRouter({
       path: '/',
       name: 'home',
       component: Home, // Specify the default layout
-      meta: { layout: 'default' },
     },
     {
-      path: '/about',
-      name: 'about',
+      path: '/projects',
+      name: 'projects',
+      component: Projects,
     },
   ],
 })

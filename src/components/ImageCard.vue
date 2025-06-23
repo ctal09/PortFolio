@@ -22,6 +22,7 @@
         </div>
         <button
           class="mt-4 px-6 py-2 bg-blue-500 text-white rounded-lg hover:bg-blue-600 transition-colors"
+          @click="$emit('leaveamessage')"
         >
           Leave a Message
         </button>
@@ -34,4 +35,6 @@
 </template>
 <script setup>
 import Skills from './Skills.vue'
+
+defineEmits(['leaveamessage'])
 </script>

@@ -33,7 +33,7 @@ const projects = [
     title: 'Hostelfinder',
     description:
       'Created a modern accommodation discovery experience using Next.js for the frontend and Django APIs for backend services, with a strong emphasis on maintainable architecture.',
-    // tech: ['Next.js', 'Django', 'React', 'PostgreSQL'],
+    tech: ['Next.js', 'Django', 'React', 'PostgreSQL'],
     role: 'Full Stack Developer',
     timeline: '2025',
     live: '#',

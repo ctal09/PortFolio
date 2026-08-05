@@ -12,7 +12,7 @@ const projects = [
   {
     title: 'Merojob',
     description:
-      'Built core backend systems and REST APIs for Nepal’s leading recruitment marketplace using Django. Focused on secure authentication, performance, and stable growth-ready architecture.',
+      'Built core backend systems and REST APIs for Nepal’s leading recruitment marketplace using python framework. Focused on secure authentication, performance, and stable growth-ready architecture.',
     tech: [],
     role: 'Backend Developer',
     timeline: '2024',
@@ -22,7 +22,7 @@ const projects = [
   {
     title: 'Rojgari',
     description:
-      'Delivered the job search and employer platform with Nuxt, Vue, and Django, integrating content flows, search, authentication, and web performance optimizations.',
+      'Delivered the job search and employer platform withjavascript and python frameworks, integrating content flows, search, authentication, and web performance optimizations.',
     tech: [],
     role: 'Full Stack Developer',
     timeline: '2024',

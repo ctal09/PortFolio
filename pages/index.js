@@ -13,7 +13,7 @@ const projects = [
     title: 'Merojob',
     description:
       'Built core backend systems and REST APIs for Nepal’s leading recruitment marketplace using Django. Focused on secure authentication, performance, and stable growth-ready architecture.',
-    tech: ['Django', 'Python', 'PostgreSQL', 'REST'],
+    // tech: ['Django', 'Python', 'PostgreSQL', 'REST'],
     role: 'Backend Developer',
     timeline: '2024',
     live: 'https://merojob.com',
@@ -23,7 +23,7 @@ const projects = [
     title: 'Rojgari',
     description:
       'Delivered the job search and employer platform with Nuxt, Vue, and Django, integrating content flows, search, authentication, and web performance optimizations.',
-    tech: ['Nuxt', 'Vue', 'Django', 'Python'],
+    // tech: ['Nuxt', 'Vue', 'Django', 'Python'],
     role: 'Full Stack Developer',
     timeline: '2024',
     live: 'https://rojgari.com',
@@ -33,7 +33,7 @@ const projects = [
     title: 'Hostelfinder',
     description:
       'Created a modern accommodation discovery experience using Next.js for the frontend and Django APIs for backend services, with a strong emphasis on maintainable architecture.',
-    tech: ['Next.js', 'Django', 'React', 'PostgreSQL'],
+    // tech: ['Next.js', 'Django', 'React', 'PostgreSQL'],
     role: 'Full Stack Developer',
     timeline: '2025',
     live: '#',
